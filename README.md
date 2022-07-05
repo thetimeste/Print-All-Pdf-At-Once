@@ -3,7 +3,7 @@ Utility application that allows you to print every pdf file in a folder in one c
 
 The program works with Foxit Reader (portable version is supported)
 
-1- Open the exe file (or compile the .py file)
+1- Open the exe file (or compile and run the .py file)
 
 2- Select foxit reader .exe file
 
