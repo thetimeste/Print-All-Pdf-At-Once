@@ -10,3 +10,5 @@ The program works with Foxit Reader (portable version is supported)
 3- Insert your printer's name in the textbox and click the button
 
 4- Select target PDF folder
+
+www.iannellodev.it
